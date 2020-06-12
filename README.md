@@ -4,7 +4,7 @@ this is the coursera test
 (https://someshfengde.github.io/coursera-test/side/index.html)
 
 
-<a href="https://someshfengde.github.io/coursera-test/side/index.html"> [click here to go to main site]  </a>
+<a href="https://someshfengde.github.io/coursera-test/side/link site.html"> [click here to go to main site]  </a>
 
 
 
